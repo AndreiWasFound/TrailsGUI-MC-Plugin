@@ -1,0 +1,8 @@
+main: me.AndreiWasFound.TrailsGUI.Main
+name: TrailsGUI
+version: 1.0
+author: AndreiWasFound
+api-version: 1.15
+
+commands:
+  trails:
